@@ -9,8 +9,8 @@ class DataBase:
     def __init__(self):
         self.connection = pymysql.connect(
         host="83lfaety6ex9.us-east-4.psdb.cloud",#------
-        user="ni73lhf1br06",#--
-        password="pscale_pw_tlOtWSN1coS6PDb4pGG6SmizEy7BKMmculrzxdbuHo4",#----
+        user="x8qt7ftgcp5y",#--
+        password="pscale_pw_GI123oAl3_0sqahW_KhjdgsVLDdPQcwAx24b029mP8w",#----
         database="kaliproject",#--
         port=3306)
         self.cursor = self.connection.cursor()
