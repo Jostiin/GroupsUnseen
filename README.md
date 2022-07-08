@@ -7,6 +7,7 @@ visualizar la diversidad de grupos con temas diferentes.
 Para Instalar correctamente este programa debera seguir con los siguientes pasos.
 Antes de tener instalado  
 - Python
+- GitHub(para clonar)
 
 ## Clonar repositorio
 
