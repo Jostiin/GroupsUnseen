@@ -40,4 +40,4 @@ Para iniciar el programa escriba en la consola lo siguiente:
 
 # Errores
 
-El programa se encuentra en la version BETA, por favor cualquier error anuncielo para poder mejorar o ayuda.
+El programa se encuentra en la version BETA, por favor cualquier error anuncielo para poder mejorar o ayudar.
