@@ -5,12 +5,18 @@ visualizar la diversidad de grupos con temas diferentes.
 # Pasos para la Instalacion
 
 Para Instalar correctamente este programa debera seguir con los siguientes pasos.
+Antes de tener instalado  
+- Python
 
 ## Clonar repositorio
 
 Lo primero es clonar el repositorio con el comando:  
 
-``git clone ``
+``git clone https://github.com/Jostiin/GroupsUnseen.git``
+
+Entramos a la carpeta GroupsUnseen.  
+
+``cd GroupsUnseen``
 
 ## Instalar requerimientos
 
