@@ -6,9 +6,15 @@ visualizar la diversidad de grupos con temas diferentes.
 
 Para Instalar correctamente este programa debera seguir con los siguientes pasos.
 
+## Clonar repositorio
+
+Lo primero es clonar el repositorio con el comando:  
+
+``git clone ``
+
 ## Instalar requerimientos
 
-Debere Instalar los requerimientos necesarios para ahcer funcionar el programa.  
+Debere Instalar los requerimientos necesarios para hacer funcionar el programa.  
 
 `` pip install -r requirements.txt``
 
