@@ -41,3 +41,10 @@ Para iniciar el programa escriba en la consola lo siguiente:
 # Errores
 
 El programa se encuentra en la version BETA, por favor cualquier error anuncielo para poder mejorar o ayudar.
+
+# YOUTUBE
+
+Como instalar GroupsUnseen: https://youtu.be/Qj8fNSMjk4M
+Como usar GroupsUnsenn: https://youtu.be/JXywZRAFrSE
+Como agregar un grupo a GroupsUnseen: https://youtu.be/OpK-W7gcMIU
+
